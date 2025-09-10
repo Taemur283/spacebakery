@@ -1,0 +1,11 @@
+{
+  "name": "Календарь заказов",
+  "version": "1.0",
+  "author": "space-bakery",
+  "description": "Отображает календарь заказов по дате",
+  "locations": ["settings", "ccard", "lead_card"],
+  "settings": {
+    "client_id": "calendar_widget",
+    "client_secret": "calendar_secret"
+  }
+}
